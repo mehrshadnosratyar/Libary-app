@@ -1,0 +1,6 @@
+{
+  "defaultLanguage": "en",
+  "languages": ["en", "fa"],
+  "title": "My Cool App",
+  "baseUrl": "https://example.com"
+}
